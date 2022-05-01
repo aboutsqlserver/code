@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "00.Create Database", "00.Create Database\00.Create Database.ssmssqlproj", "{811048D4-6885-4074-817A-66C908257E65}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05.Data Storage and Query Tuning", "05.Data Storage and Query Tuning\05.Data Storage and Query Tuning.ssmssqlproj", "{72752542-A090-42BC-854F-C4806B256342}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06.CPU Load", "06.CPU Load\06.CPU Load.ssmssqlproj", "{48348A19-8986-4E30-AB14-45C0133B2135}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07.Memory Issues", "07.Memory Issues\07.Memory Issues.ssmssqlproj", "{F228A37B-54AC-4FF9-97DD-3E7AFC9F3E12}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08.Locking, Blocking and Concurrency", "08.Locking, Blocking and Concurrency\08.Locking, Blocking and Concurrency.ssmssqlproj", "{11F52DB0-E401-4D37-8923-34005EEE87FE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09.TempDB Usage and Performance", "09.TempDB Usage and Performance\09.TempDB Usage and Performance.ssmssqlproj", "{92E02D52-AD17-4760-8CCF-7C6B75F51DCC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10.Latches", "10.Latches\10.Latches.ssmssqlproj", "{2EDCB361-D943-48EB-AF9B-071402279269}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "11.Transaction Log", "11.Transaction Log\11.Transaction Log.ssmssqlproj", "{FA605B0F-314D-4B8D-A94D-0ACE5EEC262D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{811048D4-6885-4074-817A-66C908257E65}.Default|Default.ActiveCfg = Default
+		{72752542-A090-42BC-854F-C4806B256342}.Default|Default.ActiveCfg = Default
+		{48348A19-8986-4E30-AB14-45C0133B2135}.Default|Default.ActiveCfg = Default
+		{F228A37B-54AC-4FF9-97DD-3E7AFC9F3E12}.Default|Default.ActiveCfg = Default
+		{11F52DB0-E401-4D37-8923-34005EEE87FE}.Default|Default.ActiveCfg = Default
+		{92E02D52-AD17-4760-8CCF-7C6B75F51DCC}.Default|Default.ActiveCfg = Default
+		{FE5208B1-A182-4B8E-AA58-FA9B0FCC99D5}.Default|Default.ActiveCfg = Default
+		{2EDCB361-D943-48EB-AF9B-071402279269}.Default|Default.ActiveCfg = Default
+		{FA605B0F-314D-4B8D-A94D-0ACE5EEC262D}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117559D8-8F9E-4DA7-91CE-614135C29229}
+	EndGlobalSection
+EndGlobal

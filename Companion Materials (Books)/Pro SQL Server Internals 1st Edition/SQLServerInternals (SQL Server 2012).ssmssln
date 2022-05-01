@@ -1,0 +1,107 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "00.Init", "00.Init\00.Init.ssmssqlproj", "{52A9DD2F-505F-460E-B161-1B4C17669B32}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01.Chapter 01 (Data Storage Internals)", "01.Chapter 01 (Data Storage Internals)\01.Chapter 01 (Data Storage Internals).ssmssqlproj", "{170E7551-95E5-42A5-82F9-A99C100F832A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02.Chapter 02 (Tables and Indexes)", "02.Chapter 02 (Tables and Indexes)\02.Chapter 02 (Tables and Indexes).ssmssqlproj", "{C1C6CC02-0039-47D8-BB12-1EFF6486F821}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03.Chapter 03 (Statistics)", "03.Chapter 03 (Statistics)\03.Chapter 03 (Statistics).ssmssqlproj", "{95F68B09-D399-494A-B4ED-165DF56248C7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04.Chapter 04 (Special Features)", "04.Chapter 04 (Special Features)\04.Chapter 04 (Special Features).ssmssqlproj", "{822A8B6F-16E6-44EA-BEEF-E7679D516287}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05.Chapter 05 (Index Fragmentation)", "05.Chapter 05 (Index Fragmentation)\05.Chapter 05 (Index Fragmentation).ssmssqlproj", "{73F9C5C5-4E81-42E0-AF2E-A42A68F91BE8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06.Chapter 06 (Designing and Tuning The Indexes)", "06.Chapter 06 (Designing and Tuning The Indexes)\06.Chapter 06 (Designing and Tuning The Indexes).ssmssqlproj", "{E21FE956-F5C7-44BE-960F-F229B449C05C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07.Chapter 07 (Constraints)", "07.Chapter 07 (Constraints)\07.Chapter 07 (Constraints).ssmssqlproj", "{45FB7562-E34B-4291-B03C-6E6D5776292B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08.Chapter 08 (Triggers)", "08.Chapter 08 (Triggers)\08.Chapter 08 (Triggers).ssmssqlproj", "{E2EA3C91-2AFE-4A4A-BEA9-3279E023D60C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09.Chapter 09 (Views)", "09.Chapter 09 (Views)\09.Chapter 09 (Views).ssmssqlproj", "{55CA4C8C-4A31-46C0-A7A1-47F4FF3A5E9A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10.Chapter 10 (Functions)", "10.Chapter 10 (Functions)\10.Chapter 10 (Functions).ssmssqlproj", "{FBD925D3-B5D4-419B-ADB4-BA5B4A608867}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "11.Chapter 11 (XML)", "11.Chapter 11 (XML)\11.Chapter 11 (XML).ssmssqlproj", "{64BED7A5-DAE3-4662-8D60-7A1C23772EFB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "12.Chapter 12 (Temp Tables)", "12.Chapter 12 (Temp Tables)\12.Chapter 12 (Temp Tables).ssmssqlproj", "{78E99FAD-402C-421E-B7E0-4F115D35A59A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "13.Chapter 13 (CLR)", "13.Chapter 13 (CLR)\13.Chapter 13 (CLR).ssmssqlproj", "{1805CF21-B31B-4086-91B0-70610750AFB9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "14.Chapter 14 (CLR Types)", "14.Chapter 14 (CLR Types)\14.Chapter 14 (CLR Types).ssmssqlproj", "{05FAF159-4483-4F0B-A99B-7745D094379A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "15.Chapter 15 (Data Partitioning)", "15.Chapter 15 (Data Partitioning)\15.Chapter 15 (Data Partitioning).ssmssqlproj", "{DF72658D-D0C6-46D6-858E-7C39EE4AB9CC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "16.Chapter 16 (System Design Considerations)", "16.Chapter 16 (System Design Considerations)\16.Chapter 16 (System Design Considerations).ssmssqlproj", "{1E118EE4-8E2F-4C7C-B3F9-915902A13810}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "17.Chapter 17 (Lock Types)", "17.Chapter 17 (Lock Types)\17.Chapter 17 (Lock Types).ssmssqlproj", "{75F26FD5-BF51-45C6-8727-6D61CFF3B469}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "18.Chapter 18 (Troubleshooting Blocking Issues)", "18.Chapter 18 (Troubleshooting Blocking Issues)\18.Chapter 18 (Troubleshooting Blocking Issues).ssmssqlproj", "{E8BA3A51-D444-40B0-945B-C22BF6B43B91}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "19.Chapter 19 (Deadlocks)", "19.Chapter 19 (Deadlocks)\19.Chapter 19 (Deadlocks).ssmssqlproj", "{55C603B1-6248-4513-8AFA-27DB63590FB8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "20.Chapter 20 (Lock Escalations)", "20.Chapter 20 (Lock Escalations)\20.Chapter 20 (Lock Escalations).ssmssqlproj", "{0F739ED2-E955-4472-86BE-0E2EDEA84F6A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "25.Chapter 25 (Query Optimization and Execution)", "25.Chapter 25 (Query Optimization and Execution)\25.Chapter 25 (Query Optimization and Execution).ssmssqlproj", "{94BBB21B-5C43-4FAD-B49A-D61AA24C7F90}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "26.Chapter 26 (Plan Caching)", "26.Chapter 26 (Plan Caching)\26.Chapter 26 (Plan Caching).ssmssqlproj", "{7FB8AC82-5C12-46A4-A927-94A5E709E4CA}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "27.Chapter 27 (System Troubleshooting)", "27.Chapter 27 (System Troubleshooting)\27.Chapter 27 (System Troubleshooting).ssmssqlproj", "{17A0632C-8AAB-4383-AE28-8C8CA55A819F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "28.Chapter 28 (Extended Events)", "28.Chapter 28 (Extended Events)\28.Chapter 28 (Extended Events).ssmssqlproj", "{C7E5A3F3-798A-4141-87F8-5D99CE0ACD54}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "34.Chapter 34 (Introduction to Columnstore Indexes)", "34.Chapter 34 (Introduction to Columnstore Indexes)\34.Chapter 34 (Introduction to Columnstore Indexes).ssmssqlproj", "{5163E244-B9E3-4673-815B-292B702DABCA}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "30.Chapter 30 (Backup Strategies)", "30.Chapter 30 (Backup Strategies)\30.Chapter 30 (Backup Strategies).ssmssqlproj", "{36DDCB74-DD3B-4B3D-B9FF-55832FBD42DC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "29.Chapter 29 (Transaction Log Internals)", "29.Chapter 29 (Transaction Log Internals)\29.Chapter 29 (Transaction Log Internals).ssmssqlproj", "{8914FA6E-6989-4FDF-B7BD-2924E97DC993}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "23.Chapter 23 (Schema Locks)", "23.Chapter 23 (Schema Locks)\23.Chapter 23 (Schema Locks).ssmssqlproj", "{C5D177F5-C616-4CE6-A151-B65648ABC4A1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "22.Chapter 22 (Application Locks)", "22.Chapter 22 (Application Locks)\22.Chapter 22 (Application Locks).ssmssqlproj", "{BC60EA58-1955-4F98-BA8D-672540A6EEE2}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "21.Chapter 21 (Optimistic Isolation Levels)", "21.Chapter 21 (Optimistic Isolation Levels)\21.Chapter 21 (Optimistic Isolation Levels).ssmssqlproj", "{672C3A3B-CAD2-41B0-8C4C-D9EF43F229C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A9DD2F-505F-460E-B161-1B4C17669B32}.Default|Default.ActiveCfg = Default
+		{170E7551-95E5-42A5-82F9-A99C100F832A}.Default|Default.ActiveCfg = Default
+		{C1C6CC02-0039-47D8-BB12-1EFF6486F821}.Default|Default.ActiveCfg = Default
+		{95F68B09-D399-494A-B4ED-165DF56248C7}.Default|Default.ActiveCfg = Default
+		{822A8B6F-16E6-44EA-BEEF-E7679D516287}.Default|Default.ActiveCfg = Default
+		{73F9C5C5-4E81-42E0-AF2E-A42A68F91BE8}.Default|Default.ActiveCfg = Default
+		{E21FE956-F5C7-44BE-960F-F229B449C05C}.Default|Default.ActiveCfg = Default
+		{45FB7562-E34B-4291-B03C-6E6D5776292B}.Default|Default.ActiveCfg = Default
+		{E2EA3C91-2AFE-4A4A-BEA9-3279E023D60C}.Default|Default.ActiveCfg = Default
+		{55CA4C8C-4A31-46C0-A7A1-47F4FF3A5E9A}.Default|Default.ActiveCfg = Default
+		{FBD925D3-B5D4-419B-ADB4-BA5B4A608867}.Default|Default.ActiveCfg = Default
+		{64BED7A5-DAE3-4662-8D60-7A1C23772EFB}.Default|Default.ActiveCfg = Default
+		{78E99FAD-402C-421E-B7E0-4F115D35A59A}.Default|Default.ActiveCfg = Default
+		{1805CF21-B31B-4086-91B0-70610750AFB9}.Default|Default.ActiveCfg = Default
+		{05FAF159-4483-4F0B-A99B-7745D094379A}.Default|Default.ActiveCfg = Default
+		{DF72658D-D0C6-46D6-858E-7C39EE4AB9CC}.Default|Default.ActiveCfg = Default
+		{1E118EE4-8E2F-4C7C-B3F9-915902A13810}.Default|Default.ActiveCfg = Default
+		{75F26FD5-BF51-45C6-8727-6D61CFF3B469}.Default|Default.ActiveCfg = Default
+		{E8BA3A51-D444-40B0-945B-C22BF6B43B91}.Default|Default.ActiveCfg = Default
+		{55C603B1-6248-4513-8AFA-27DB63590FB8}.Default|Default.ActiveCfg = Default
+		{0F739ED2-E955-4472-86BE-0E2EDEA84F6A}.Default|Default.ActiveCfg = Default
+		{94BBB21B-5C43-4FAD-B49A-D61AA24C7F90}.Default|Default.ActiveCfg = Default
+		{7FB8AC82-5C12-46A4-A927-94A5E709E4CA}.Default|Default.ActiveCfg = Default
+		{17A0632C-8AAB-4383-AE28-8C8CA55A819F}.Default|Default.ActiveCfg = Default
+		{C7E5A3F3-798A-4141-87F8-5D99CE0ACD54}.Default|Default.ActiveCfg = Default
+		{5163E244-B9E3-4673-815B-292B702DABCA}.Default|Default.ActiveCfg = Default
+		{36DDCB74-DD3B-4B3D-B9FF-55832FBD42DC}.Default|Default.ActiveCfg = Default
+		{8914FA6E-6989-4FDF-B7BD-2924E97DC993}.Default|Default.ActiveCfg = Default
+		{C5D177F5-C616-4CE6-A151-B65648ABC4A1}.Default|Default.ActiveCfg = Default
+		{BC60EA58-1955-4F98-BA8D-672540A6EEE2}.Default|Default.ActiveCfg = Default
+		{672C3A3B-CAD2-41B0-8C4C-D9EF43F229C5}.Default|Default.ActiveCfg = Default
+		{1E7758D9-7DA7-452E-B050-155D86D86AB2}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

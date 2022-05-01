@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "00.Init", "00.Init\00.Init.ssmssqlproj", "{2D4EBC9F-971B-4B7D-9A45-D5C1630E7DB2}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01.Chapter 01 (Data Storage and Access Methods)", "01.Chapter 01 (Data Storage and Access Methods)\01.Chapter 01 (Data Storage and Access Methods).ssmssqlproj", "{7835BF84-A325-4357-91ED-F916D7DD19F6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02.Chapter 02 (Transaction Management and Concurrency Models)", "02.Chapter 02 (Transaction Management and Concurrency Models)\02.Chapter 02 (Transaction Management and Concurrency Models).ssmssqlproj", "{4413D377-02CD-4CAD-9FD6-110D0432FE2D}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03.Chapter 03 (Lock Types)", "03.Chapter 03 (Lock Types)\03.Chapter 03 (Lock Types).ssmssqlproj", "{6D5EA497-3447-4FDC-AC8A-7CDD4F7FB5B3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04.Chapter 04 (Blocking In The System)", "04.Chapter 04 (Blocking In The System)\04.Chapter 04 (Blocking In The System).ssmssqlproj", "{77F86B93-BD0D-40D4-9833-6801896F26AC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06.Chapter 06 (Optimistic Isolation Levels)", "06.Chapter 06 (Optimistic Isolation Levels)\06.Chapter 06 (Optimistic Isolation Levels).ssmssqlproj", "{07BDCABE-BB0D-4C10-A8A4-CEF8106B3E79}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09.Chapter 09 (Lock Partitioning)", "09.Chapter 09 (Lock Partitioning)\09.Chapter 09 (Lock Partitioning).ssmssqlproj", "{A6294391-B7F3-432B-A5A5-AACF69EA48F8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05.Chapter 05 (Deadlocks)", "05.Chapter 05 (Deadlocks)\05.Chapter 05 (Deadlocks).ssmssqlproj", "{EC911EC8-AADB-4EDD-BD5A-99C72DB089F5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07.Chapter 07 (Lock Escalation)", "07.Chapter 07 (Lock Escalation)\07.Chapter 07 (Lock Escalation).ssmssqlproj", "{7E5E894C-2FD2-4C4F-9BE7-8786EFCAA55F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08.Chapter 08 (Schema and Low Priority Locks)", "08.Chapter 08 (Schema and Low Priority Locks)\08.Chapter 08 (Schema and Low Priority Locks).ssmssqlproj", "{3CD8A812-0526-461B-8A23-664955F5B625}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10.Chapter 10 (Application Locks)", "10.Chapter 10 (Application Locks)\10.Chapter 10 (Application Locks).ssmssqlproj", "{B9BAF72C-CCFF-4C85-B0D7-CD7369FF16BB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "12.Chapter 12 (Troubleshooting Concurrency Issues)", "12.Chapter 12 (Troubleshooting Concurrency Issues)\12.Chapter 12 (Troubleshooting Concurrency Issues).ssmssqlproj", "{67334F25-25CD-418D-B338-543D39AA3687}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "13.Chapter 13 (In-Memory OLTP Concurrency Model)", "13.Chapter 13 (In-Memory OLTP Concurrency Model)\13.Chapter 13 (In-Memory OLTP Concurrency Model).ssmssqlproj", "{B62EC77D-0B62-4FC4-A0BF-31B376C7E6DE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "14.Chapter 14 (Locking and Columnstore Indexes)", "14.Chapter 14 (Locking and Columnstore Indexes)\14.Chapter 14 (Locking and Columnstore Indexes).ssmssqlproj", "{D3152389-FB42-47B3-A61B-0DB2C08BB930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4EBC9F-971B-4B7D-9A45-D5C1630E7DB2}.Default|Default.ActiveCfg = Default
+		{7835BF84-A325-4357-91ED-F916D7DD19F6}.Default|Default.ActiveCfg = Default
+		{4413D377-02CD-4CAD-9FD6-110D0432FE2D}.Default|Default.ActiveCfg = Default
+		{6D5EA497-3447-4FDC-AC8A-7CDD4F7FB5B3}.Default|Default.ActiveCfg = Default
+		{77F86B93-BD0D-40D4-9833-6801896F26AC}.Default|Default.ActiveCfg = Default
+		{07BDCABE-BB0D-4C10-A8A4-CEF8106B3E79}.Default|Default.ActiveCfg = Default
+		{A6294391-B7F3-432B-A5A5-AACF69EA48F8}.Default|Default.ActiveCfg = Default
+		{EC911EC8-AADB-4EDD-BD5A-99C72DB089F5}.Default|Default.ActiveCfg = Default
+		{7E5E894C-2FD2-4C4F-9BE7-8786EFCAA55F}.Default|Default.ActiveCfg = Default
+		{3CD8A812-0526-461B-8A23-664955F5B625}.Default|Default.ActiveCfg = Default
+		{B9BAF72C-CCFF-4C85-B0D7-CD7369FF16BB}.Default|Default.ActiveCfg = Default
+		{67334F25-25CD-418D-B338-543D39AA3687}.Default|Default.ActiveCfg = Default
+		{D3152389-FB42-47B3-A61B-0DB2C08BB930}.Default|Default.ActiveCfg = Default
+		{B62EC77D-0B62-4FC4-A0BF-31B376C7E6DE}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

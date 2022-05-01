@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="13.Chapter 13 (CLR)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.Object Creation (SQL Server 2012-2014).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.Object Creation (SQL Server 2012-2014).sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.Scalar UDF.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.Scalar UDF.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.Complex Caluclations.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.Complex Caluclations.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.Data Access.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.Data Access.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.Cursor vs. Reader.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.Cursor vs. Reader.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.Aggregate.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.Aggregate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.Non-Yelding CLR.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.Non-Yelding CLR.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="12.Chapter 12 (Troubleshooting Concurrency Issues)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.Wait Statistics.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.Wait Statistics.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.Execution Statistics.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.Execution Statistics.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.Wait Type Map.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.Wait Type Map.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.Index Stats Analysis.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.Index Stats Analysis.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.Index Usage from Plan Cache.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.Index Usage from Plan Cache.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.1.Blocking Chains.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.1.Blocking Chains.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.2.Blocking Chains.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.2.Blocking Chains.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.3.Blocking Chains.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.3.Blocking Chains.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.4.Blocking Chains.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.4.Blocking Chains.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.5.Blocking Chains.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.5.Blocking Chains.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.Availability Group Queues.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.Availability Group Queues.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.1.Readable Secondaries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.1.Readable Secondaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.2.Readable Secondaries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.2.Readable Secondaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.3.Readable Secondaries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.3.Readable Secondaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09.Version Store Troubleshooting.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09.Version Store Troubleshooting.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10.Sys-dm_io_virtual_file_stats.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10.Sys-dm_io_virtual_file_stats.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

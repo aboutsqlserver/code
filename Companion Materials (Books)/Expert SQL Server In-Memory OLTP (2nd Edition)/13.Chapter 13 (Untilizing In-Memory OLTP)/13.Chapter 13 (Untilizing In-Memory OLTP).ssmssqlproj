@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="13.Chapter 13 (Untilizing In-Memory OLTP)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.Vertical Partitioning.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.Vertical Partitioning.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.Working with XML and Geography.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.Working with XML and Geography.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.1.Referential Integrity.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.1.Referential Integrity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.2.Referential Integrity.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.2.Referential Integrity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.Optimistic Concurrency.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.Optimistic Concurrency.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.Update Overhead.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.Update Overhead.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.Binary Collation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.Binary Collation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.1.Data Partitioning (Tables).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.1.Data Partitioning (Tables).sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.2.Data Partitioning (SPs).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.2.Data Partitioning (SPs).sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.3.Data Partitioning (Data Movement).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.3.Data Partitioning (Data Movement).sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.TVP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.TVP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09.TV Performance OLTP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09.TV Performance OLTP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10.Session-Store.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10.Session-Store.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

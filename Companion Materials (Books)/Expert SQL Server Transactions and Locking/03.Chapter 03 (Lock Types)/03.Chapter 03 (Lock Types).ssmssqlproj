@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="03.Chapter 03 (Lock Types)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.(X) and (IX) locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.(X) and (IX) locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.(U) locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.(U) locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.1.(S) Locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.1.(S) Locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.2.(S) Locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.2.(S) Locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.1.(X) Lock Behavior.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.1.(X) Lock Behavior.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.2.(X) Lock Behavior.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.2.(X) Lock Behavior.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.(S) Locks Behavior.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.(S) Locks Behavior.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.Convertion Locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.Convertion Locks.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

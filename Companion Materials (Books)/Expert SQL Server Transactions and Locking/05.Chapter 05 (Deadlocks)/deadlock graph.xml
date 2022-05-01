@@ -1,0 +1,114 @@
+﻿
+	<deadlock>
+		<victim-list>
+			<victimProcess id="process3123b79848" />
+		</victim-list>
+		<process-list>
+			<process id="process3123b79848" waitresource="KEY: 5:72057594046513152 (11ea04af99f6)" 
+				lockMode="RangeS-U" spid="55" isolationlevel="read uncommitted (1)">
+		
+			</process>
+			<process id="process3123b78108" waitresource="KEY: 5:72057594046513152 (59855d342c69)" 
+				lockMode="RangeS-U" spid="57" isolationlevel="read uncommitted (1)">
+			</process>
+	</process-list>
+	<resource-list>
+		<keylock hobtid="72057594046513152" objectname="SQLServerInternals.dbo.IgnoreDupKeysDeadlock" 
+				indexname="IDX_IgnoreDupKeysDeadlock_NCICol" >
+			<owner-list>
+				<owner id="process3123b78108" mode="X" />
+			</owner-list>
+			<waiter-list>
+				<waiter id="process3123b79848" mode="RangeS-U" requestType="wait" />
+			</waiter-list>
+		</keylock>
+		<keylock hobtid="72057594046513152" objectname="SQLServerInternals.dbo.IgnoreDupKeysDeadlock"
+				 indexname="IDX_IgnoreDupKeysDeadlock_NCICol" >
+			<owner-list>
+				<owner id="process3123b79848" mode="RangeS-U" />
+			</owner-list>
+			<waiter-list>
+				<waiter id="process3123b78108" mode="RangeS-U" requestType="wait" />
+			</waiter-list>
+		</keylock>
+	 </resource-list>
+	</deadlock>
+
+
+
+
+</value>
+    </data>
+  </event>
+  <event name="wait_info" package="sqlos" timestamp="2018-04-20T18:17:17.160Z">
+    <data name="wait_type">
+      <type name="wait_types" package="sqlos"></type>
+      <value>14</value>
+      <text><![CDATA[LCK_M_RS_U]]></text>
+    </data>
+    <data name="opcode">
+      <type name="event_opcode" package="sqlos"></type>
+      <value>1</value>
+      <text><![CDATA[End]]></text>
+    </data>
+    <data name="duration">
+      <type name="uint64" package="package0"></type>
+      <value>103507</value>
+    </data>
+    <data name="signal_duration">
+      <type name="uint64" package="package0"></type>
+      <value>0</value>
+    </data>
+    <data name="wait_resource">
+      <type name="ptr" package="package0"></type>
+      <value>0x00000031fd74c7f0</value>
+    </data>
+    <action name="sql_text" package="sqlserver">
+      <type name="unicode_string" package="package0"></type>
+      <value><![CDATA[set transaction isolation level read committed
+begin tran
+	insert into dbo.IgnoreDupKeysDeadlock(CICol,NCICol)
+	values(12,12);
+
+	select request_session_id, resource_type, resource_description
+		,resource_associated_entity_id, request_mode, request_type, request_status
+	from sys.dm_tran_locks
+	where request_session_id = @@SPID;
+
+	insert into dbo.IgnoreDupKeysDeadlock(CICol,NCICol)
+	values(2,2);
+commit;]]></value>
+    </action>
+    <action name="session_id" package="sqlserver">
+      <type name="uint16" package="package0"></type>
+      <value>57</value>
+    </action>
+    <action name="callstack" package="package0">
+      <type name="callstack" package="package0"></type>
+      <value><![CDATA[sqllang.dll+0x000000000072EDE2
+sqllang.dll+0x00000000007300C1
+sqllang.dll+0x000000000072F4E9
+sqldk.dll+0x0000000000047645
+sqldk.dll+0x0000000000001960
+sqldk.dll+0x00000000000012DF
+sqlmin.dll+0x000000000000187C
+sqlmin.dll+0x0000000000089137
+sqlmin.dll+0x0000000000088F3C
+sqlmin.dll+0x00000000000C29FB
+sqlmin.dll+0x00000000000C1BA4
+sqlmin.dll+0x000000000002A39C
+sqlmin.dll+0x000000000002DD16
+sqlTsEs.dll+0x000000000000233D
+sqlTsEs.dll+0x0000000000001DE7
+sqlmin.dll+0x000000000002DDA7
+sqlmin.dll+0x0000000000108A18
+sqlmin.dll+0x00000000000A2D2C
+sqlmin.dll+0x00000000000478D9
+sqlmin.dll+0x00000000000715E6
+sqlmin.dll+0x0000000000035CAF
+sqllang.dll+0x00000000000165D7
+sqllang.dll+0x0000000000359A79
+sqllang.dll+0x000000000035983C]]></value>
+    </action>
+  </event>
+</RingBufferTarget>

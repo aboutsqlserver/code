@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="13.Chapter 13 (Transaction Processing)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="00.DB Creation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>00.DB Creation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01.Table Creation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.Table Creation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.1.Repeatable Read.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.1.Repeatable Read.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.2.Repeatable Read.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.2.Repeatable Read.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.1.Serializable.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.1.Serializable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.2.Serializable.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.2.Serializable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.1.Snapshot.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.1.Snapshot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.2.Snapshot.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.2.Snapshot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.1.Write-Write Conflict.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.1.Write-Write Conflict.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.2.Write-Write Conflict.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.2.Write-Write Conflict.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.1.PK Violation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.1.PK Violation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.2.PK Violation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.2.PK Violation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.1.Ref Integrity.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.1.Ref Integrity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.2.Ref Integrity.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.2.Ref Integrity.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

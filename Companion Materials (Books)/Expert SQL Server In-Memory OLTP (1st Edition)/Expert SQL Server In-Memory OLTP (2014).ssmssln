@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "00.Init", "00.Init\00.Init.ssmssqlproj", "{3CA93053-1F61-4009-A03D-6C8D8E16A3AF}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02.Chapter 02 (In-Memory OLTP Objects)", "02.Chapter 02 (In-Memory OLTP Objects)\02.Chapter 02 (In-Memory OLTP Objects).ssmssqlproj", "{19349805-E689-40EB-9851-FF39BD7464B5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04.Chapter 04 (Hash Indexes)", "04.Chapter 04 (Hash Indexes)\04.Chapter 04 (Hash Indexes).ssmssqlproj", "{C8C2C436-CEAA-4D1B-A6F4-92031B903256}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05.Chapter 05 (Nonclustered Indexes)", "05.Chapter 05 (Nonclustered Indexes)\05.Chapter 05 (Nonclustered Indexes).ssmssqlproj", "{983D3631-73F5-440A-A740-1D155F222537}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06.Chapter 06 (In-Memory OLTP Programmability)", "06.Chapter 06 (In-Memory OLTP Programmability)\06.Chapter 06 (In-Memory OLTP Programmability).ssmssqlproj", "{F719F1D8-47F1-4EC2-B068-F309820250AE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07.Chapter 07 (In-Memory OLTP Concurrency Model)", "07.Chapter 07 (In-Memory OLTP Concurrency Model)\07.Chapter 07 (In-Memory OLTP Concurrency Model).ssmssqlproj", "{6E3F803A-B072-4EA0-84A8-7D6A8EACF1FE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08.Chapter 08 (Data Storage, Logging and Recovery)", "08.Chapter 08 (Data Storage, Logging and Recovery)\08.Chapter 08 (Data Storage, Logging and Recovery).ssmssqlproj", "{701C411D-1A66-4242-ADAA-3EC2F420A254}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09.Chapter 09 (Garbage Collection)", "09.Chapter 09 (Garbage Collection)\09.Chapter 09 (Garbage Collection).ssmssqlproj", "{3F536680-93C3-4F33-87DB-FFE05E10C7EE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10.Chapter 10 (Deployment and Management)", "10.Chapter 10 (Deployment and Management)\10.Chapter 10 (Deployment and Management).ssmssqlproj", "{D422B378-3491-4175-B162-7F841EA3ACB8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "11.Chapter 11 (Untilizing In-Memory OLTP)", "11.Chapter 11 (Untilizing In-Memory OLTP)\11.Chapter 11 (Untilizing In-Memory OLTP).ssmssqlproj", "{BCF36AF4-3605-47E1-8232-2426F87EF083}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "14.Appendix C (Analyzing the States of CFPs)", "14.Appendix C (Analyzing the States of CFPs)\14.Appendix C (Analyzing the States of CFPs).ssmssqlproj", "{8D22ED55-DDF6-4C45-9945-1B374BE49EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA93053-1F61-4009-A03D-6C8D8E16A3AF}.Default|Default.ActiveCfg = Default
+		{163D206D-FE8F-4E40-AD8C-40F619898F68}.Default|Default.ActiveCfg = Default
+		{19349805-E689-40EB-9851-FF39BD7464B5}.Default|Default.ActiveCfg = Default
+		{C8C2C436-CEAA-4D1B-A6F4-92031B903256}.Default|Default.ActiveCfg = Default
+		{983D3631-73F5-440A-A740-1D155F222537}.Default|Default.ActiveCfg = Default
+		{F719F1D8-47F1-4EC2-B068-F309820250AE}.Default|Default.ActiveCfg = Default
+		{6E3F803A-B072-4EA0-84A8-7D6A8EACF1FE}.Default|Default.ActiveCfg = Default
+		{701C411D-1A66-4242-ADAA-3EC2F420A254}.Default|Default.ActiveCfg = Default
+		{3F536680-93C3-4F33-87DB-FFE05E10C7EE}.Default|Default.ActiveCfg = Default
+		{D422B378-3491-4175-B162-7F841EA3ACB8}.Default|Default.ActiveCfg = Default
+		{BCF36AF4-3605-47E1-8232-2426F87EF083}.Default|Default.ActiveCfg = Default
+		{8D22ED55-DDF6-4C45-9945-1B374BE49EEE}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

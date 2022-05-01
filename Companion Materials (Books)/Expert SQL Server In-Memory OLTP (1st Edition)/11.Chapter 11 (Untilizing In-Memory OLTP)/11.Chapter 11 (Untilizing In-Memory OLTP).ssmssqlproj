@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="11.Chapter 11 (Untilizing In-Memory OLTP)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.Vertical Partitioning.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.Vertical Partitioning.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.Splitting Data.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.Splitting Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.1.Uniqueness Support.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.1.Uniqueness Support.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.2.Uniqueness Support.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.2.Uniqueness Support.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.Referential Integrity.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.Referential Integrity.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.Binary Collation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.Binary Collation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.TVP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.TVP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.TV Performance OLTP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.TV Performance OLTP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.1.TV Performance DW - Create.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.1.TV Performance DW - Create.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.2.TV Performance DW - ETL.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.2.TV Performance DW - ETL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.3.TV Performance DW - Update.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.3.TV Performance DW - Update.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09.Session-Store.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09.Session-Store.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10.Data Partitioning.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>10.Data Partitioning.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11.Natively Compiled SPs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>11.Natively Compiled SPs.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

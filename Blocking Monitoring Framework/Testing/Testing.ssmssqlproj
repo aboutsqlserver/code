@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Testing">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.0.Blocking Testing.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.0.Blocking Testing.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01.1.Blocking Testing (Session 1).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.1.Blocking Testing (Session 1).sql</FullPath>
+        </FileNode>
+        <FileNode Name="01.2.Blocking Testing (Session 2).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.2.Blocking Testing (Session 2).sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.0.Deadlock Testing.sql.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.0.Deadlock Testing.sql.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.1.Deadlock Testing (Session 1).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.1.Deadlock Testing (Session 1).sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.2.Deadlock Testing (Session 2).sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.2.Deadlock Testing (Session 2).sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

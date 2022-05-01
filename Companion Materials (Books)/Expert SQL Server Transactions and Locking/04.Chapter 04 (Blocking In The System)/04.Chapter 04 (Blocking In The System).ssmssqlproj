@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="04.Chapter 04 (Blocking In The System)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.1.Creating Blocking.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.1.Creating Blocking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01.2.Creating Blocking.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.2.Creating Blocking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.DMVs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.DMVs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.Set Blocked Process Threshold.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.Set Blocked Process Threshold.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.Obtaining SQL and Plan by sql_handle.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.Obtaining SQL and Plan by sql_handle.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.Obtaining SQL and Plan from sys_dm_exec_requests.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.Obtaining SQL and Plan from sys_dm_exec_requests.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.Capturing Blocking Info with Event Notifications.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.Capturing Blocking Info with Event Notifications.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

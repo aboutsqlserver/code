@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="08.Chapter 08 (Schema and Low Priority Locks)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.1.Schema Locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.1.Schema Locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01.2.Schema Locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.2.Schema Locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01.3.Schema Locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.3.Schema Locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.1.Lock Compatibility.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.1.Lock Compatibility.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.2.Lock Compatibility.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.2.Lock Compatibility.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.3.Lock Compatibility.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.3.Lock Compatibility.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.1.Low Priority Locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.1.Low Priority Locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.2.Low Priority Locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.2.Low Priority Locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.3.Low Priority Locks.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.3.Low Priority Locks.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

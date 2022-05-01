@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="36.Chapter 36 (Transaction Processing in In-Memory OLTP) (SQL Server 2014)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.Test Table Creation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.Test Table Creation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.1.Concurrency in Repeatable Read.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.1.Concurrency in Repeatable Read.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.2.Concurrency in Repeatable Read.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.2.Concurrency in Repeatable Read.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.1.Concurrency in Serializable.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.1.Concurrency in Serializable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.2.Concurrency in Serializable.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.2.Concurrency in Serializable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.1.Concurrency in Snapshot.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.1.Concurrency in Snapshot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.2.Concurrency in Snapshot.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.2.Concurrency in Snapshot.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.1.PK Violation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.1.PK Violation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.2.PK Violation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.2.PK Violation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.1.Write-write Conflict.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.1.Write-write Conflict.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.2.Write-write Conflict.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.2.Write-write Conflict.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08.Tran Logging.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>08.Tran Logging.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

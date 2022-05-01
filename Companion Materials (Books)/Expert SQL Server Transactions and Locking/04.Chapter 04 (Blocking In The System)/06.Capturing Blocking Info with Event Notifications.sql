@@ -1,0 +1,2 @@
+-- Use BMFramework Solution from companion materials of the book. 
+-- Download the latest version from http://aboutsqlserver/bmframework 

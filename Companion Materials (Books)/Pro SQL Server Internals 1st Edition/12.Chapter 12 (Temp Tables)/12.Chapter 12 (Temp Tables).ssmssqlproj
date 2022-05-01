@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="12.Chapter 12 (Temp Tables)">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.Temp Tables - Scope and Lifetime.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01.Temp Tables - Scope and Lifetime.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.Temp Tables and Cardinality Estimations.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02.Temp Tables and Cardinality Estimations.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.Temp Table Caching.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03.Temp Table Caching.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04.Table-Variables.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04.Table-Variables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05.Table-Variables and Transactions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05.Table-Variables and Transactions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.TVP Scope.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06.TVP Scope.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.TVP - Batch Insert.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07.TVP - Batch Insert.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

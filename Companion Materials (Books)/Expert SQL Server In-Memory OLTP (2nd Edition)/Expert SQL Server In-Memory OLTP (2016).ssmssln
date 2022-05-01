@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 13.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "00.Init", "00.Init\00.Init.ssmssqlproj", "{3CA93053-1F61-4009-A03D-6C8D8E16A3AF}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02.Chapter 02 (In-Memory OLTP Objects)", "02.Chapter 02 (In-Memory OLTP Objects)\02.Chapter 02 (In-Memory OLTP Objects).ssmssqlproj", "{19349805-E689-40EB-9851-FF39BD7464B5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04.Chapter 04 (Hash Indexes)", "04.Chapter 04 (Hash Indexes)\04.Chapter 04 (Hash Indexes).ssmssqlproj", "{C8C2C436-CEAA-4D1B-A6F4-92031B903256}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05.Chapter 05 (Nonclustered Indexes)", "05.Chapter 05 (Nonclustered Indexes)\05.Chapter 05 (Nonclustered Indexes).ssmssqlproj", "{983D3631-73F5-440A-A740-1D155F222537}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06.Chapter 06 (Memory Consumers, Off-Row Storage)", "06.Chapter 06 (Memory Consumers, Off-Row Storage)\06.Chapter 06 (Memory Consumers, Off-Row Storage).ssmssqlproj", "{4D7DF009-23C3-464E-9D92-692D2B4E2DD1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "08.Chapter 08 (Transaction Processing)", "08.Chapter 08 (Transaction Processing)\08.Chapter 08 (Transaction Processing).ssmssqlproj", "{6E3F803A-B072-4EA0-84A8-7D6A8EACF1FE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "09.Chapter 09 (In-Memory OLTP Programmability)", "09.Chapter 09 (In-Memory OLTP Programmability)\09.Chapter 09 (In-Memory OLTP Programmability).ssmssqlproj", "{F719F1D8-47F1-4EC2-B068-F309820250AE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "10.Chapter 10 (Data Storage, Logging and Recovery)", "10.Chapter 10 (Data Storage, Logging and Recovery)\10.Chapter 10 (Data Storage, Logging and Recovery).ssmssqlproj", "{701C411D-1A66-4242-ADAA-3EC2F420A254}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "11.Chapter 11 (Garbage Collection)", "11.Chapter 11 (Garbage Collection)\11.Chapter 11 (Garbage Collection).ssmssqlproj", "{3F536680-93C3-4F33-87DB-FFE05E10C7EE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "12.Chapter 12 (Deployment and Management)", "12.Chapter 12 (Deployment and Management)\12.Chapter 12 (Deployment and Management).ssmssqlproj", "{D422B378-3491-4175-B162-7F841EA3ACB8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "13.Chapter 13 (Untilizing In-Memory OLTP)", "13.Chapter 13 (Untilizing In-Memory OLTP)\13.Chapter 13 (Untilizing In-Memory OLTP).ssmssqlproj", "{BCF36AF4-3605-47E1-8232-2426F87EF083}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "16.Appendix C (Analyzing the States of CFPs)", "16.Appendix C (Analyzing the States of CFPs)\16.Appendix C (Analyzing the States of CFPs).ssmssqlproj", "{8D22ED55-DDF6-4C45-9945-1B374BE49EEE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "07.Chapter 07 (Columnstore Indexes)", "07.Chapter 07 (Columnstore Indexes)\07.Chapter 07 (Columnstore Indexes).ssmssqlproj", "{D99E4166-F9A8-4FBC-857E-DE90808DA4FE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "17.Appendix D (In-Memory OLTP Migration Tools)", "17.Appendix D (In-Memory OLTP Migration Tools)\17.Appendix D (In-Memory OLTP Migration Tools).ssmssqlproj", "{AA1910A7-DF0E-4BFD-8FAB-9D22BFBA244E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA93053-1F61-4009-A03D-6C8D8E16A3AF}.Default|Default.ActiveCfg = Default
+		{19349805-E689-40EB-9851-FF39BD7464B5}.Default|Default.ActiveCfg = Default
+		{C8C2C436-CEAA-4D1B-A6F4-92031B903256}.Default|Default.ActiveCfg = Default
+		{983D3631-73F5-440A-A740-1D155F222537}.Default|Default.ActiveCfg = Default
+		{4D7DF009-23C3-464E-9D92-692D2B4E2DD1}.Default|Default.ActiveCfg = Default
+		{6E3F803A-B072-4EA0-84A8-7D6A8EACF1FE}.Default|Default.ActiveCfg = Default
+		{F719F1D8-47F1-4EC2-B068-F309820250AE}.Default|Default.ActiveCfg = Default
+		{701C411D-1A66-4242-ADAA-3EC2F420A254}.Default|Default.ActiveCfg = Default
+		{3F536680-93C3-4F33-87DB-FFE05E10C7EE}.Default|Default.ActiveCfg = Default
+		{D422B378-3491-4175-B162-7F841EA3ACB8}.Default|Default.ActiveCfg = Default
+		{BCF36AF4-3605-47E1-8232-2426F87EF083}.Default|Default.ActiveCfg = Default
+		{8D22ED55-DDF6-4C45-9945-1B374BE49EEE}.Default|Default.ActiveCfg = Default
+		{D99E4166-F9A8-4FBC-857E-DE90808DA4FE}.Default|Default.ActiveCfg = Default
+		{6B2F321B-2038-476B-9E45-C3778FC70598}.Default|Default.ActiveCfg = Default
+		{AA1910A7-DF0E-4BFD-8FAB-9D22BFBA244E}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
