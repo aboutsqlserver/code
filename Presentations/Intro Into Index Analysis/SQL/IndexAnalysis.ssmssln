@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "IndexAnalysis", "IndexAnalysis.ssmssqlproj", "{3D12D365-75A4-4DEE-8A81-509C0300D83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D12D365-75A4-4DEE-8A81-509C0300D83B}.Default|Default.ActiveCfg = Default
+		{83AECC02-FE72-4E76-A08E-619DB1CFEE51}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0395DD94-CDB7-4C9E-BCCA-5A1FA76C15EE}
+	EndGlobalSection
+EndGlobal

@@ -10,3 +10,5 @@ Use Azure Data Studio (https://docs.microsoft.com/en-us/sql/azure-data-studio/do
 3. Blocking Monitoring Framework - Blocking and Deadlock monitoring using Event Notification. See https://aboutsqlserver.com/bmframework for more details
 
 4. Companion Materials - Books' companion materials  
+
+5. Presentations - Slides and demo code from presentations. More at: https://aboutsqlserver.com/presentations
